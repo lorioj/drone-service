@@ -33,7 +33,4 @@ public class Medication {
 
 	private String image;
 	
-	@ManyToOne
-	private Drone drone;
-
 }
